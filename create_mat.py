@@ -23,7 +23,7 @@ d=int(input("Entrer la dimension d de la matrice M : \n d= "))
 # Créer une matrice 
 for i in range(d):
     for j in range(d):
-        c=int(input("Entrer les coefficient de la matrice M \nMij= ")) 
+        c=int(input("Entrer les coefficients de la matrice M \nMij= ")) 
         v.append(c)
     M.append(v)
     v=[]

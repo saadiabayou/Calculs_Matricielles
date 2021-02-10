@@ -9,7 +9,7 @@ L' objectif :
 
 Créer plusieurs scripts Python pour : 
 
-- Initialiser une matrice à zéro - init_mat;py 
+- Initialiser une matrice à zéro - init_mat.py 
 
 - Saisir la dimension et les coefficients de la matrice en ligne de commande 
 
@@ -19,14 +19,15 @@ Créer plusieurs scripts Python pour :
 
 
 
-Pour exécuter le programme :
-
 
 Etude matrice carrée
 
-Pour executer ses programmes en ligne de commande Linux :
 
-python3 init.py
+Pour executer ses programmes 
+
+En ligne de commande sous Linux :
+
+python3 init_mat.py
 
 python3 create_mat.py
 

@@ -17,9 +17,6 @@ Créer plusieurs scripts Python pour :
 
 
 
-
-
-
 Etude matrice carrée
 
 
